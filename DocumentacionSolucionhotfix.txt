@@ -1,0 +1,5 @@
+Documentación de solución Hotfix
+
+Este archivo fue creado en la rama hotfix/tarea.
+
+En esta rama se documenta la solución correspondiente al ejercicio de Programación 2.
